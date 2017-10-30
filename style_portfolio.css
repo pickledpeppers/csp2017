@@ -1,0 +1,52 @@
+body {
+    background-color: #eaf8f8;
+}
+
+.header {
+    background: url(https://lh3.googleusercontent.com/_tcY7QLx6X_8/UY1_ogiesJI/AAAAAAAACJI/yFszjrVg534/w500-h125-p/10_bluebubbles.jpg); background-size: 100% 100%;
+    font-size: 10px;
+    color: white; 
+    text-align: center; 
+    background-color: #5b9aa0;
+    padding: 1px;
+}
+
+.topnav {
+    background-color: #e0e2e4;
+    text-align: center;
+}
+
+.selected {
+    background-color: #2e8b8d;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    width: 140px;
+    height: 120px;
+}
+
+a:hover {
+    background-color: #5fc9cb;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 5em;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 3em;
+    color: #588c7e;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    color: #484f4f;
+}
