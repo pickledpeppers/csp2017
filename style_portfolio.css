@@ -3,7 +3,7 @@ body {
 }
 
 .header {
-    background: ul(https://lh3.googleusercontent.com/_tcY7QLx6X_8/UY1_ogiesJI/AAAAAAAACJI/yFszjrVg534/w500-h125-p/10_bluebubbles.jpg); background-size: 50% 100%;
+    background: url(https://lh3.googleusercontent.com/_tcY7QLx6X_8/UY1_ogiesJI/AAAAAAAACJI/yFszjrVg534/w500-h125-p/10_bluebubbles.jpg); background-size: 50% 100%;
     font-size: 10px;
     color: white; 
     text-align: center; 
@@ -11,7 +11,7 @@ body {
 }
 
 .topnav {
-    background: url(https://lh3.googleusercontent.com/fG3LTw6zE-Lj_BGG3TJrCsQzJ8YQcyye79RXMscYfZxj4CFHrbet2drJleiKVlOMsi4zBvlKiXpED-4=w1920-h994); background-size: 50% 100%;
+    background: url(https://lh3.googleusercontent.com/fG3LTw6zE-Lj_BGG3TJrCsQzJ8YQcyye79RXMscYfZxj4CFHrbet2drJleiKVlOMsi4zBvlKiXpED-4=w1920-h994.png); background-size: 50% 100%;
     background-color: #e0e2e4;
     text-align: center;
 }
