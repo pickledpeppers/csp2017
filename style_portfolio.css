@@ -13,6 +13,7 @@ body {
 .topnav {
     background-color: #e0e2e4;
     text-align: center;
+    padding: 20px;
 }
 
 .selected {
