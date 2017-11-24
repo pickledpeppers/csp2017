@@ -17,21 +17,20 @@ body {
 
 .selected {
     background-color: #2e8b8d;
-    padding: 20px;
 }
 
-a {
+.tab {
     text-decoration: none; 
     color: white;
     font-family: sans-serif;
     font-weight: bold;
     display: inline-block;
     width: 140px;
+    padding: 20px;
 }
 
-a:hover {
+.tab:hover {
     background-color: #5fc9cb;
-    padding: 20px;
 }
 
 h1 {
