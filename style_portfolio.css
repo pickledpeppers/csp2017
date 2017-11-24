@@ -31,6 +31,7 @@ a {
 
 a:hover {
     background-color: #5fc9cb;
+    padding: 20px;
 }
 
 h1 {
