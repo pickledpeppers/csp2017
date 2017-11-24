@@ -13,11 +13,11 @@ body {
 .topnav {
     background-color: #e0e2e4;
     text-align: center;
-    padding: 20px;
 }
 
 .selected {
     background-color: #2e8b8d;
+    padding: 20px;
 }
 
 a {
@@ -27,7 +27,6 @@ a {
     font-weight: bold;
     display: inline-block;
     width: 140px;
-    height: 40px;
 }
 
 a:hover {
